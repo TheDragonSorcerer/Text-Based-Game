@@ -2,3 +2,26 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+#startBtn {
+  text-align: center;
+  background-color: red;
+  color: white;
+  height: 25px;
+  width: 100px;
+  border-radius: 20px;
+  position: absolute;
+  top: 200px;
+  left: 600px;
+}
+#chaptersBtn  {
+  text-align: center;
+  background-color: orange;
+  color: white;
+  height: 25px;
+  width: 100px;
+  border-radius: 20px;
+  position: absolute;
+  top: 400px;
+  left: 600px;
+}
